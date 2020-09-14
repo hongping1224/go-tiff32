@@ -1,7 +1,7 @@
 // Copyright 2019 Hong-Ping Lo. All rights reserved.
 // Use of this source code is governed by a BDS-style
 // license that can be found in the LICENSE file.
-package main
+package tiff
 
 import (
 	"encoding/binary"
